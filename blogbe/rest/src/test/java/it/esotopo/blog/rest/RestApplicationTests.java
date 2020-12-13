@@ -1,10 +1,10 @@
-package it.esotopo.blog;
+package it.esotopo.blog.rest;
 
 import org.junit.jupiter.api.Test;
 import org.springframework.boot.test.context.SpringBootTest;
 
 @SpringBootTest
-class BlogApplicationTests {
+class RestApplicationTests {
 
     @Test
     void contextLoads() {
